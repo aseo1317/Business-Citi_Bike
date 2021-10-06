@@ -1,4 +1,4 @@
-# Citi Bike Resource Deployment
+# Project Tour de France
 
 ## Question
 Citi Bike is a public bicycle sharing system in NYC serving Manhattan, Brooklyn, the Bronx, Queens, and Jersey City and Hoboken in New Jersey. During the pandemic, the city has seen an unprecedented rise in ridership as the COVID-19 pandemic has convinced many to turn to alternative means of transport. With this rise, however, comes increased maintenance costs as well as greater demand. This demand issue is what I will be looking to solve. Specifically, I will be looking to balance the number of bike docks there are in a given station based on volume and traffic patterns. The recommendations in the most basic form would be to add docks to some stations while removing some from others. In some cases, the data may indicate an entirely new station is necessary. This project would most directly benefit riders, who would less often be faced with a full dock when attempting to dock their bikes.  
